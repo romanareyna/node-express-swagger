@@ -4,7 +4,7 @@ Using Swagger JSDoc and Swagger UI Express to automatically generate OpenAPI doc
 
 ## Running the Server
 
-With [NodeJS](https://nodejs.org/en/) installed, you can started the server by running,
+With [NodeJS](https://nodejs.org/en/) installed, you can started the server by running:
 
 ```sh
 node app.js
@@ -12,7 +12,7 @@ node app.js
 
 _**OR**_
 
-With Nodemon installed, start the server using Nodemon
+With Nodemon installed, start the server using Nodemon:
 
 ```sh
 yarn nodemon app.js
